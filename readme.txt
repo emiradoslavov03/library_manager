@@ -29,7 +29,8 @@ library_manager/
 
 ```bash
 # 1. Клониране на хранилището
-git clone
+git clone https://github.com/emiradoslavov03/library_manager.git
+cd library_manager
 
 # 2. Стартиране
 python main.py - Windows
